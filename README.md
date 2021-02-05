@@ -12,7 +12,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://elberthcorniell-calculator.herokuapp.com/)
+[Live Demo Link](https://player-img-downloader.herokuapp.com/)
 
 ## Getting Started
 
